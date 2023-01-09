@@ -1,5 +1,5 @@
-# complete2023WebDevelopmentBootcamp
+# Personal Website
 
-An Udemy course on Web Development
+A website developed to practice my HTML skills based on 'The Complete 2023 Web Development Bootcamp' on Udemy.
 
-The first part of the course covered off creating this HTML personal website.
+The first part of the course involved creating this personal website.
